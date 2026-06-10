@@ -1,4 +1,4 @@
 # ai-bootcamp
 Ai Boot Camp By Ramu Dean (THub)
 
- AI Bootcamp — <Devu Sai Surya Vinay>
+ AI Bootcamp — Devu Sai Surya Vinay
