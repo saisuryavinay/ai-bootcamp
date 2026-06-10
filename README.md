@@ -1,0 +1,2 @@
+# ai-bootcamp
+Ai Boot Camp By Ramu Dean (THub)
